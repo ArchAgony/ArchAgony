@@ -35,13 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-![Daoa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
----
-
 ### 🏅 Badges:
 - 🌟 **Hacktoberfest 2024** Participant  
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-orange?style=flat&logo=hacktoberfest)
