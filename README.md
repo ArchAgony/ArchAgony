@@ -22,21 +22,13 @@
 ---
 
 ### 🌍 Connect With Me:
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/username)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/ArchAgony)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/arch_agony/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/YourDiscordID)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/919076562358386729)
 
 ---
 
 ### 🎉 Fun Facts:
-- 🦦 My spirit animal is a sloth!
-- 🍕 I can eat pizza for every meal.
-- 💬 "Code is like humor. When you have to explain it, it’s bad."
+- > 💡 **"the thing i really enjoy about programming is just the fact that you really can tell the computer exactly what to do, and it will do what you tell it and nothing more."**
+  > — ✍️ *Westwood Computer Science Club*
 
----
-
-### 🏅 Badges:
-- 🌟 **Hacktoberfest 2024** Participant  
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-orange?style=flat&logo=hacktoberfest)
-- 🌟 Holopin Badge Showcase  
-[![Holopin Profile](https://holopin.me/username)](https://holopin.io/username)
