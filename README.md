@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.jpg" width="350">
+</p>
+
 # Hi 👋, I'm Dava Ari Ardiansyah!
 
   > 💡 **"the thing i really enjoy about programming is just the fact that you really can tell the computer exactly what to do, and it will do what you tell it and nothing more."**
