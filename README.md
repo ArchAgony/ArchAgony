@@ -18,8 +18,8 @@
 ---
 
 ### 🎉 Fun Facts:
-- 🎸 My favourite music genre is rock
-- 🖥 My side quests is building and repairing PCs
+- 🎸 I love guitar, but guitar doesn't love me
+- 🖥 My hobby is building and repairing PCs
 
 ---
 
