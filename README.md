@@ -9,17 +9,11 @@
 
 ---
 
-### 🚀 About Me:
+### About Me:
 - 🎓 A Software Engineering Student from Indonesia.
 - 💻 Passionate about **Web Development**, **API Development**, and **Open Source**.
 - 🌱 Currently exploring **Laravel, React, and Tailwind CSS**.
 - 🎯 Goal: To contribute to impactful **open-source projects**.
-
----
-
-### 🎉 Fun Facts:
-- 🎸 I love guitar, but guitar doesn't love me
-- 🖥 My hobby is building and repairing PCs
 
 ---
 
@@ -28,6 +22,7 @@
 
 ---
 
+<h3 align="left">Achievements:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archagony" alt="archagony" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archagony&show_icons=true&locale=en&layout=compact" alt="archagony" /></p>
